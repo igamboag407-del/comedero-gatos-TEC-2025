@@ -1,4 +1,3 @@
-# comedero-gatos-TEC-2025
 # Comedero Automático para Gatos — Ignacio
 ## Descripción 
 Pequeño sistema que dispensa alimento automáticamente usando 
